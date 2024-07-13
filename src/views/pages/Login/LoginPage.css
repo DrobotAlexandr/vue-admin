@@ -1,0 +1,10 @@
+.LoginPage {
+    padding-top: 100px;
+}
+.LoginPage__form {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #eee;
+    border-radius: 16px;
+    padding: 24px;
+}
